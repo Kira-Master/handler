@@ -1,0 +1,13 @@
+{	
+	"prefix": "multi", 
+	"defaultSessionName": "QRnya", 
+	"zeksKey": "apivinz",
+	"autoRead": true,
+	"self": false, 
+	"maxLimit": 20,
+	"ownerList": ["6282322153431@s.whatsapp.net"],
+	"apiUrl": "https://api.zeks.me",
+    "imgUrl": "https://i.ibb.co/hBRn8Qm/880be0a10baf.jpg",
+	"pack": "liljee",
+	"author": "<3"
+}
